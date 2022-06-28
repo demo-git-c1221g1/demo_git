@@ -1,6 +1,6 @@
 function sum(){
     console.log("aaaaa");
-    console.log("bbbbbb");
+    console.log("anh đà đẹp trai lắm");
 }
 function minus(){
     console.log("121212312");
