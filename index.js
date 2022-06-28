@@ -1,5 +1,6 @@
 function sum(){
-    console.log("123123");
+    console.log("aaaaa");
+    console.log("bbbbbb");
 }
 function minus(){
     console.log("121212312");
