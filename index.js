@@ -1,4 +1,6 @@
 function sum(){
-    console.log("aaavva090999")
+    console.log("ádasdsadsads");
 }
-
+function minus(){
+    console.log("121212312");
+}
