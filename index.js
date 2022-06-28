@@ -1,1 +1,3 @@
-123
+function sum(){
+    console.log("123")
+}
