@@ -1,4 +1,4 @@
 function sum(){
-    console.log("aaavva")
+    console.log("aaavva090999")
 }
 
