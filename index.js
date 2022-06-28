@@ -1,4 +1,4 @@
 function sum(){
-    console.log("abcdasdas");
+    console.log("121212312");
 }
 
