@@ -1,1 +1,3 @@
-456
+function sum(){
+    console.log("hjb") 
+}
