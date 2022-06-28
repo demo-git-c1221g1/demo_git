@@ -1,4 +1,4 @@
 function sum(){
-    console.log("123")
+    console.log("000099123123")
 }
 
